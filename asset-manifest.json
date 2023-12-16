@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WhatsAppClone/static/css/main.9645d1e4.css",
+    "main.js": "/WhatsAppClone/static/js/main.23e27d7b.js",
+    "static/js/787.c15b2b3f.chunk.js": "/WhatsAppClone/static/js/787.c15b2b3f.chunk.js",
+    "index.html": "/WhatsAppClone/index.html",
+    "main.9645d1e4.css.map": "/WhatsAppClone/static/css/main.9645d1e4.css.map",
+    "main.23e27d7b.js.map": "/WhatsAppClone/static/js/main.23e27d7b.js.map",
+    "787.c15b2b3f.chunk.js.map": "/WhatsAppClone/static/js/787.c15b2b3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9645d1e4.css",
+    "static/js/main.23e27d7b.js"
+  ]
+}
